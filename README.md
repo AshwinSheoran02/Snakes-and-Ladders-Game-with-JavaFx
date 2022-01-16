@@ -29,7 +29,7 @@ Enjoy Playing the Game !!
  
 <img width="517" alt="snake1" src="https://user-images.githubusercontent.com/88393756/149649151-889dfac5-3d10-4bd3-af2d-796375bb39c3.png">
 
-## Links for reference
+## Links for resources
 
 ```https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdice%2Bdots&psig=AOvVaw0Yeowz98a7XLhfPL-8fKUY&ust=1640252198222000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiR0d6N9_QCFQAAAAAdAAAAABAD ```
 
