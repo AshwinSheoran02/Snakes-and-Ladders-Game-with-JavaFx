@@ -31,8 +31,7 @@ Enjoy Playing the Game !!
 
 ## Links for reference
 
-```
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdice%2Bdots&psig=AOvVaw0Yeowz98a7XLhfPL-8fKUY&ust=1640252198222000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiR0d6N9_QCFQAAAAAdAAAAABAD ```
+```https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdice%2Bdots&psig=AOvVaw0Yeowz98a7XLhfPL-8fKUY&ust=1640252198222000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJiR0d6N9_QCFQAAAAAdAAAAABAD ```
 ```https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fstock-photo%2Fyellow-ludo.html%3Fpage%3D3&psig=AOvVaw1XwvKyyMQT6j0q3LEwyUFg&ust=1640252275060000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCat4SO9_QCFQAAAAAdAAAAABAD```
 ```https://www.youtube.com/watch?v=0WEPWglzP0s```
 ```https://www.youtube.com/watch?v=FBVrgBNzC8k```
