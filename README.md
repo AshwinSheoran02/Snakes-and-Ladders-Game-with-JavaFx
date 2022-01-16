@@ -32,8 +32,9 @@ Enjoy Playing the Game !!
 <p align="center">
  Made By Ashwin Sheoran and Harshit Garg 
  
- 
- 
+ <br>
+ <br>
+ <br>
 
 ## Links for resources :paperclips:
 
