@@ -10,7 +10,7 @@ To run the game first install essential libraries and then run the ```Main``` fi
 ## Class Relationships
 The class relationships used in the Project are shown visually using the ```UML diagram``` 	:page_facing_up:, which can be viewed using
 
- ```UML-SnakeandLadders.pdf or UML_SnakeandLadders.png```
+ ```UML-SnakeandLadders.pdf``` or ```UML_SnakeandLadders.png```
 
 
 ## Resources
