@@ -16,7 +16,7 @@ The class relationships used in the Project are shown visually using the ```UML 
 ## Resources
 All the resources used for the project are present in the folder 
 
-``` Images and src/main/resources/com/example```
+``` Images``` and *src/main/resources/com/example*
  
  
  ## Game Screen
