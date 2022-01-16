@@ -2,21 +2,21 @@
 The snake and Ladders Game :game_die: for two players made using JavaFx with important concepts of OOPs, done as a project for Advanced Programming course (CSE201) under Prof. Koteswar Rao Jerripothula
 
 ## Run the Game
-To run the game first install essential libraries and then run the ```***Main***``` file from the following path
+To run the game first install essential libraries and then run the ```Main``` file from the following path
 
 */src/main/java/com/example/snakesandladdersgame/HelloApplication.java*
 
 
 ## Class Relationships
-The class relationships used in the Project are shown visually using the ```***UML diagram***``` 	:page_facing_up:, which can be viewed using
+The class relationships used in the Project are shown visually using the ```UML diagram``` 	:page_facing_up:, which can be viewed using
 
- ```*UML-SnakeandLadders.pdf* or *UML_SnakeandLadders.png*```
+ ```UML-SnakeandLadders.pdf or UML_SnakeandLadders.png```
 
 
 ## Resources
 All the resources used for the project are present in the folder 
 
-``` *Images* and *src/main/resources/com/example*```
+``` Images and src/main/resources/com/example```
  
  
  ## Game Screen
