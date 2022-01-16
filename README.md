@@ -2,7 +2,7 @@
 The snake and Ladders Game :game_die: for two players made using JavaFx with important concepts of OOPs, done as a project for Advanced Programming course (CSE201) under Prof. Koteswar Rao Jerripothula
 
 ## Run the Game
-To run the game first install essential libraries and then run the ```Main``` file from the following path
+To run the game, first install essential libraries and then run the ```Main``` file from the following path
 
 */src/main/java/com/example/snakesandladdersgame/HelloApplication.java*
 
