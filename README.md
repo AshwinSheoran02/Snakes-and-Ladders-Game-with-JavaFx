@@ -6,7 +6,6 @@ To run the game, first install essential libraries and then run the ```Main``` f
 
 */src/main/java/com/example/snakesandladdersgame/HelloApplication.java*
 
-Or you can simply run the '.jar' file after downloading it from the given link : https://drive.google.com/file/d/1hKoUJ0UqmD6qae9580Mc6064nJhTW5V7/view?usp=sharing
 
 
 ## Class Relationships
